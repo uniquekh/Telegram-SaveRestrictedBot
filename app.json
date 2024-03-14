@@ -14,27 +14,27 @@
     "env": {
             "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "535493fe4238924090936de70ce6bde5"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "24042004"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "7007736083:AAGiVxHSFtH5ZFVGwONpUSbQKor_pr-aH1k"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
-            "value": ""
+            "value": "BQFu2hQAboko6gB3BaMs7I5f8U1br-xeJG34PyhLpekM6CYngwF7_Q6QyBgrzIJNspMJhLXj9Sz82IGwCWR_wYSsH8EPE3t38KSCTV6yhhIjw9nUcwNm9CwDEP2SFCN7kAnw3ALtQBPVQ9-sGJ5hhmmi5XPr2ogkBKe_jvLNZMyocF3pQnxhQqc6dVbRJuYnbknOQvvuo5T2lZ6jrwUmNRq8z-g3kTfe2wQbTiFsoTEnHTqBDHC1yYdvJOOzyeXM7D3VrQ-I4ufm1FenSrbBI7Nk8hak2D4P-8ftNyCCGkvBmUQxQayfZsqfG-_F0Uf9iaqrJ6wk93tMZwxmdUPKKK1MYHSAfAAAAAGZRRpQAA"
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": ""
+            "value": "6866410064"
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": ""
+            "value": "https://t.me/lakshyaair2024"
         }
     },
     "stack": "container"
